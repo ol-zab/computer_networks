@@ -1,0 +1,3 @@
+msg_id,app_protocol,src_app,dst_app,message,timestamp
+1,CHAT,alice,bob,Hello Bob,0.001
+2,CHAT,bob,alice,Hi Alice,0.010
